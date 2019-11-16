@@ -1,1 +1,2 @@
-# GeneticAlgorithm_100x100
+# GeneticAlgorithm
+遗传算法
